@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://madaraf.github.io/Flyrank-intership-machine_learning/
